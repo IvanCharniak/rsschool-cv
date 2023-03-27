@@ -19,3 +19,14 @@ Bachelor of Economic
 3. GIT
 4. JS basic
 
+## **Code piece**
+```
+  function cass(words) {
+        return words.split('').map((words)=> `${words.slice(0,1).toUpperCase()}${words.slice(1)}`).join(' ');
+    }
+```
+
+## **Languages**
++ Russian: native
++ Belarussian: native
++ English: unknown level
