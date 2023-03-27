@@ -12,3 +12,10 @@ telegram: @shopologic
 ## **Education**
 2015 — 2019 Belarussian state economic univerity  
 Bachelor of Economic
+
+## **Skills**
+1. HTML5
+2. CSS, SCSS, SASS
+3. GIT
+4. JS basic
+
